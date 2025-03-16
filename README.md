@@ -1,2 +1,2 @@
-# laughing-garbanzo
-Asp.Net university project
+# Nutrition App
+Asp.Net university project built during my bachelor degree 
